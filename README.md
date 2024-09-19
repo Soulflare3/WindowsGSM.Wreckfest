@@ -1,4 +1,7 @@
 # WindowsGSM.Wreckfest
+![GitHub Release](https://img.shields.io/github/v/release/Soulflare3/WindowsGSM.Wreckfest)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Soulflare3/WindowsGSM.Wreckfest/total)
+
 🧩 WindowsGSM plugin that provides Wreckfest Dedicated server support!
 
 ## Requirements
